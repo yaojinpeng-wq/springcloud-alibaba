@@ -1,0 +1,10 @@
+server:
+  port: 80
+spring:
+  application:
+    name: cloud-consumer-order80 # 服务名称
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848 # 配置 nacos 地址
