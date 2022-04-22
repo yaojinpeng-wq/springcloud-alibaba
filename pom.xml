@@ -13,6 +13,7 @@
         <module>cloud-api-commons</module>
         <module>cloudalibaba-consumer-order80</module>
         <module>cloudalibaba-consumer-feign-order8001</module>
+        <module>cloudalibaba-provider-payment9002</module>
     </modules>
 
     <!--统一管理jar包和版本-->
